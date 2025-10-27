@@ -10,6 +10,9 @@ body {
 
 .header {
     background-color: orange;
+    position: absolute;
+    top: 50px;
+    right: 50px;
     height: 100px;
     width: 100%;
     display: flex;
